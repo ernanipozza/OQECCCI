@@ -348,12 +348,13 @@ export const receitasTodas = [{
 
 		{
 			"receita": "Chocolate quente",
-			"ingredientes": "240 ml de leite, 2 colheres de sopa de Nutella",
+			"ingredientes": "240 ml de leite, 2 colheres de sopa de Nutella, chocolate em pó ou achocolatado",
 			"ingredientesBase": {
-				"0": "3",
+				"0": "4",
 				"1": "Leite",
 				"2": "Nutella",
-				"3": "Chocolate"
+				"3": "Chocolate",
+				"4": "Achocolatado
 			},
 			"modoPreparo": "Coloque 1/4 do leite em uma panela e adicione as 2 colheres de Nutella (se você quiser, pode acrescentar mais!) e leve ao fogo médio-baixo. Incorpore o chocolate até que ele forme uma mistura homogênea e, então, adicione o restante do leite aos poucos, mexendo sem parar. Quando estiver bem quente, retire do fogo, coloque em uma xícara e veja se você consegue encontrar marshmallows, canela ou quem sabe chantilly para incrementar. ",
 			"link_imagem":"assets/images/22 - Chocolate Quente.jpg",
