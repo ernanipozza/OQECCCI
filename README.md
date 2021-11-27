@@ -3,9 +3,11 @@
 "O QUE EU CONSIGO COZINHAR COM ISSO?"
 
 Aluno: Ernani Antonio Pozza Filho
+
 Curso 4 - Desenvolvedores de softwares(DEVs) - Nível 1
 
 https://github.com/ernanipozza/OQECCCI - Github do projeto
+
 https://ernanipozza.github.io/OQECCCI/ - Página no Github Pages
 
 Conceito: uma página de busca de receitas que filtra os resultados de acordo com os ingredientes informados pelo usuário. Cada ingrediente adicionado refina ainda mais os resultados. Se o usuário excluir algum ingrediente, os resultados informados são atualizados de acordo com os ingredientes restantes da lista.
